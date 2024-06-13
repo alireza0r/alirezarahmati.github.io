@@ -105,12 +105,12 @@ hr {
   margin: 0;
 }
 
-.aboutme {
-  text-align: justify;
-}
-
 .qoute {
   font-style: italic;
   font-size: small;
   margin-top: 20%;
+}
+
+.aboutMe {
+  text-align: justify;
 }
